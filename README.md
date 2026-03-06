@@ -10,7 +10,7 @@
 ➡️ [Python Notebook](Ritesh_Delhivery_Feature_Engineering.ipynb)
 
 - You can access the complete case study report here  
-➡️ [Project Report](Ritesh Delhivery Feature Engineering.pdf)
+➡️ [Project Report](Ritesh_Delhivery_Feature_Engineering.pdf)
 
 ---
 
